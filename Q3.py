@@ -16,4 +16,4 @@ def age(years):
 
 years=int(input("Enter age:"))
 res=age(years)
-print(res)
+print(f"your age in days is{res}")
