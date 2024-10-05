@@ -1,1 +1,1 @@
-Python Practise exercises
+Python Beginner to intermediate practise
